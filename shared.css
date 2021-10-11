@@ -11,3 +11,7 @@ body {
 .header {
   background-color: blue;
 }
+footer {
+  color: #fff;
+  background-color: brown;
+}

@@ -8,6 +8,9 @@ body {
   color: #333;
 }
 
+.header {
+  background-color: blue;
+}
 footer {
   color: #fff;
   background-color: brown;
